@@ -6,6 +6,7 @@ A chill guy from Eastern Europe who transforms ideas into modern IT solutions fr
 - **Backend Development & DevOps** (and a dash of frontend for good measure)  
 - **IoT & Embedded Systems:** Exploring microcontrollers like ESP and automating cool stuff  
 - **Mobile/Desktop Development:** Dipping into Flutter and SwiftUI
+- **Blockchain/Web3 Development:** Solana, Ethereum
 - Immersing in **Machine Learning**
 
 🛠️ **My Tech Stack:**  
