@@ -11,7 +11,7 @@ A chill guy from Eastern Europe who transforms ideas into modern IT solutions fr
 
 🛠️ **My Tech Stack:**  
 - **Backend:** Golang, TypeScript (Node.js)  
-- **Databases:** PostgreSQL <sup>for everything!</sup>, Redis, MongoDB  
+- **Databases:** PostgreSQL <sup>for everything!</sup>, Redis, MongoDB, DynamoDB
 - **Message Brokers:** RabbitMQ, NATS, Kafka, Mosquitto  
 - **Frontend:** Svelte  
 - **DevOps:** (bare metal enthusiast 🔩)   AWS, GCP, Terraform, Kubernetes, Docker 
