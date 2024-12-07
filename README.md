@@ -1,6 +1,8 @@
 ### About Me
 
-A chill guy from Europe who transforms ideas into modern IT solutions from concept of creation to full product support.
+
+
+Just a chill guy from Europe who transforms ideas into modern IT solutions from concept of creation to full product support. <img src="https://github.com/user-attachments/assets/8fc784ed-0611-4ec0-bc2b-fafc369e8eb5" width="32" />
 
 💻 **What I Do:**  
 - **Backend Development & DevOps** (and a dash of frontend for good measure)  
