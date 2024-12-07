@@ -27,7 +27,7 @@ A chill guy from Eastern Europe who transforms ideas into modern IT solutions fr
 
 I use:
 - [DigitalOcean](https://www.digitalocean.com/) and [Webdock](https://webdock.io/en) to host my projects
-- Linux for development and everyday use 🐧
+- Linux for development and everyday[^2]  use 🐧
 ---
 
 ### Get in Touch  
@@ -38,6 +38,6 @@ Want to chat? Feel free to reach out! [^1]
 - **Telegram**: [@illiadymura](https://t.me/illiadymura) (fastest way)  
 
 [^1]: *Apologies in advance for any delays in my responses*  
-
+[^2]: *Yet giving MacOS a try*  
 
 ![](https://count.getloli.com/@github-illiafox?name=github-illiafox&theme=3d-num&padding=6&offset=0&align=bottom&scale=0.4&pixelated=1&darkmode=auto)
