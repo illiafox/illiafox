@@ -1,6 +1,6 @@
 ### About Me
 
-A chill guy from Eastern Europe who transforms ideas into modern IT solutions from concept of creation to full product support.
+A chill guy from Europe who transforms ideas into modern IT solutions from concept of creation to full product support.
 
 💻 **What I Do:**  
 - **Backend Development & DevOps** (and a dash of frontend for good measure)  
@@ -41,3 +41,4 @@ Want to chat? Feel free to reach out! [^1]
 [^2]: *Yet giving MacOS a try*  
 
 ![](https://count.getloli.com/@github-illiafox?name=github-illiafox&theme=3d-num&padding=6&offset=0&align=bottom&scale=0.4&pixelated=1&darkmode=auto)
+
