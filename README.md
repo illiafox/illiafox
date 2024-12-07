@@ -21,7 +21,7 @@ Some links:
  - [Leetcode](https://leetcode.com/u/illiafox/)
  - [AdventOfCode](https://github.com/illiafox/adventofcode) 🎄
  - [Codewars](https://www.codewars.com/users/IlliaFox)
- - ~~[illia.cloud](https://illia.cloud)~~ __[WIP]__  
+ - ~~[blog.illia.cloud](https://illia.cloud)~~ __[WIP]__  
 
 I use:
 - [DigitalOcean](https://www.digitalocean.com/) and [Webdock](https://webdock.io/en) to host my projects
