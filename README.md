@@ -16,9 +16,10 @@ A chill guy from Eastern Europe who transforms ideas into modern IT solutions fr
 - **Frontend:** Svelte  
 - **DevOps:** (bare metal enthusiast 🔩)   AWS, GCP, Terraform, Kubernetes, Docker 
 
-I'm always curious and eager to explore new technologies. Hand me a new stack, and I'll embrace it.
+> [!NOTE]
+> Didn't see your stack on my list? Hand it to me, and I'll dive right in. I'm always curious and eager to explore new technologies, ready to embrace whatever comes my way
 
-Some links:
+**Some links:**
  - [Leetcode](https://leetcode.com/u/illiafox/)
  - [AdventOfCode](https://github.com/illiafox/adventofcode) 🎄
  - [Codewars](https://www.codewars.com/users/IlliaFox)
@@ -31,11 +32,12 @@ I use:
 
 ### Get in Touch  
 
-Want to chat? Feel free to reach out!  
+Want to chat? Feel free to reach out! [^1]  
 - **LinkedIn**: [in/illia-dimura](https://www.linkedin.com/in/illia-dimura/)
 - **Email**: [illiadimura@gmail.com](mailto:illiadimura@gmail.com)
 - **Telegram**: [@illiadymura](https://t.me/illiadymura) (fastest way)  
 
-*(Apologies in advance for any delays in my responses)*  
+[^1]: *Apologies in advance for any delays in my responses*  
+
 
 ![](https://count.getloli.com/@github-illiafox?name=github-illiafox&theme=3d-num&padding=6&offset=0&align=bottom&scale=0.4&pixelated=1&darkmode=auto)
