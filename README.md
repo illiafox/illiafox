@@ -25,6 +25,7 @@ Just a chill guy from Europe who transforms ideas into modern IT solutions from 
 > Didn't see your stack on my list? Hand it to me, and I'll dive right in. I'm always curious and eager to explore new technologies, ready to embrace whatever comes my way
 
 **Some links:**
+ - [inspire.tech](https://github.com/tech-inspire) - my latest bleeding-edge pet project
  - [Leetcode](https://leetcode.com/u/illiafox/) (+ [solutions](https://github.com/illiafox/leetcode))
  - [AdventOfCode](https://github.com/illiafox/adventofcode) 🎄
  - [Codewars](https://www.codewars.com/users/IlliaFox)
