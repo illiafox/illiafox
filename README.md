@@ -5,24 +5,26 @@
 Just a chill guy from Europe who transforms ideas into modern IT solutions from concept of creation to full product support. <img src="https://github.com/user-attachments/assets/8fc784ed-0611-4ec0-bc2b-fafc369e8eb5" width="32" />
 
 💻 **What I Do:**  
-- **Backend Development & DevOps** (and a dash of frontend for good measure)  
-- **IoT & Embedded Systems:** Exploring microcontrollers like ESP and automating cool stuff  
-- **Mobile/Desktop Development:** Dipping into Flutter and SwiftUI
-- **Blockchain/Web3 Development:** Solana, Ethereum
-- Immersing in **Machine Learning**
+- **Backend Development & DevOps** (and a bit of frontend)  
+- **IoT & Embedded Systems:** Exploring microcontrollers like ESP, Pi Zero and automating cool stuff  
+- **Mobile/Desktop Development:** Dipping into SwiftUI
+- Immersing in Machine Learning: training PyTorch models, tinkering with embeddings (like OpenAI CLIP) / vector search, and other small-scale AI experiments
+- **LLM Infrastructure**: MCP servers
 
 🛠️ **My Tech Stack:**  
 - **Backend:** Golang, TypeScript (Node.js)  
 - **Databases:** PostgreSQL <sup>for everything!</sup>, Redis, MongoDB, DynamoDB, ScyllaDB
 - **Message Brokers:** RabbitMQ, NATS, Kafka, Mosquitto  
 - **Frontend:** Vue, Svelte  
-- **DevOps:** (bare metal enthusiast 🔩)   AWS, GCP, Terraform, Kubernetes, Docker 
+- **DevOps:** AWS (ECS, S3, SQS, Lambda, Aurora, EKS, Cognito), GCP (Cloud Run, GKE), Terraform, Kubernetes, Docker
+- **Data Processing**: Apache Spark, Clickhouse
+- **Observability**: Prometheus, Grafana (Loki, Promtail), OpenTelemetry, Sentry, VictoriaMetrics
 
 > [!NOTE]
 > Didn't see your stack on my list? Hand it to me, and I'll dive right in. I'm always curious and eager to explore new technologies, ready to embrace whatever comes my way
 
 **Some links:**
- - [Leetcode](https://leetcode.com/u/illiafox/)
+ - [Leetcode](https://leetcode.com/u/illiafox/) (+ [solutions](https://github.com/illiafox/leetcode))
  - [AdventOfCode](https://github.com/illiafox/adventofcode) 🎄
  - [Codewars](https://www.codewars.com/users/IlliaFox)
  - ~~[blog.illia.cloud](https://illia.cloud)~~ __[WIP]__  
