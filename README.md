@@ -10,7 +10,7 @@ Just a chill guy from Europe who transforms ideas into modern IT solutions from 
 - **Mobile/Desktop Development:** Dipping into SwiftUI
 - Immersing in Machine Learning: training PyTorch models, tinkering with embeddings (like OpenAI CLIP in [inspire.tech](https://github.com/tech-inspire)) / vector search, and other small-scale AI experiments
 - **LLM Infrastructure**: MCP servers
-- **Low-Level Systems**: digging into linux internals and bare-metal programming, building an arm64 C compiler ([dumbc](https://github.com/illiafox/dumbc))
+- **Low-Level Systems**: digging into linux internals, bare-metal programming & building an arm64 C compiler ([dumbc](https://github.com/illiafox/dumbc))
 
 🛠️ **My Tech Stack:**  
 - **Backend:** Golang, TypeScript (Node.js)  
