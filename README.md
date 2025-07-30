@@ -17,7 +17,7 @@ Just a chill guy from Europe who transforms ideas into modern IT solutions from 
 - **Databases:** PostgreSQL <sup>for everything!</sup>, Redis, MongoDB, DynamoDB, ScyllaDB
 - **Message Brokers:** RabbitMQ, NATS, Kafka, Mosquitto  
 - **Frontend:** Vue, Svelte  
-- **DevOps:** AWS (ECS, S3, SQS, Lambda, Aurora, EKS, Cognito), GCP (Cloud Run, GKE), Terraform, Kubernetes, Docker
+- **DevOps:** AWS (ECS, S3, SQS, Lambda, Aurora, EKS, Cognito), GCP (Cloud Run, GKE), Terraform, Kubernetes (Flux), Docker
 - **Data Processing**: Apache Spark, Clickhouse
 - **Observability**: Prometheus, Grafana (Loki, Promtail), OpenTelemetry, Sentry, VictoriaMetrics
 
