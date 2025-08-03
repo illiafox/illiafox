@@ -42,6 +42,7 @@ Want to chat? Feel free to reach out! [^1]
 - **LinkedIn**: [in/illia-dimura](https://www.linkedin.com/in/illia-dimura/)
 - **Email**: [illiadimura@gmail.com](mailto:illiadimura@gmail.com)
 - **Telegram**: [@illiadymura](https://t.me/illiadymura) (fastest way)  
+- **XMPP**: <a href="xmpp:IlliaFox@07f.de">IlliaFox@07f.de</a> or <a href="xmpp:illiafox@talks.in.ua">illiafox@talks.in.ua</a>
 
 [^1]: *Apologies in advance for any delays in my responses*  
 [^2]: *Yet giving MacOS a try*  
