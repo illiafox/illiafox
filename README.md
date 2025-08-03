@@ -2,15 +2,15 @@
 
 
 
-Just a chill guy from Europe who transforms ideas into modern IT solutions from concept of creation to full product support. <img src="https://github.com/user-attachments/assets/8fc784ed-0611-4ec0-bc2b-fafc369e8eb5" width="32" />
+Just a chill guy from Europe who transforms ideas into modern IT solutions. From initial concept to full product support.<img src="https://github.com/user-attachments/assets/8fc784ed-0611-4ec0-bc2b-fafc369e8eb5" width="32" />
 
 💻 **What I Do:**  
 - **Backend Development & DevOps** (and a bit of frontend)  
-- **IoT & Embedded Systems:** Exploring microcontrollers like ESP, Pi Zero and automating cool stuff  
-- **Mobile/Desktop Development:** Dipping into SwiftUI
-- Immersing in Machine Learning: training PyTorch models, tinkering with embeddings (like OpenAI CLIP in [inspire.tech](https://github.com/tech-inspire)) / vector search, and other small-scale AI experiments
-- **LLM Infrastructure**: MCP servers, Langchain, Langgraph
-- **Low-Level Systems**: digging into linux internals, bare-metal programming & building an arm64 C compiler ([dumbc](https://github.com/illiafox/dumbc))
+- **Low-Level Systems**: linux internals & bare-metal programming. Building an arm64 C compiler ([dumbc](https://github.com/illiafox/dumbc))
+- **IoT & Embedded Systems:** Automating cool stuff with ESP32, Raspberry Pi Zero, Arduino Boards... Building a smart home with HomeAssistant (hosted on OrangePi board) and ESPHome
+- **Mobile/Desktop Development:** SwiftUI
+- **Machine Learning**: Training PyTorch models, experimenting with embeddings (e.g. OpenAI CLIP in [inspire.tech](https://github.com/tech-inspire)), vector search, TTS (Whisper), and other small-scale AI projects
+- **LLM Infrastructure**: Building agent workflows with LangChain and LangGraph, integrating vector stores, connecting MCP servers
 
 🛠️ **My Tech Stack:**  
 - **Backend:** Golang, TypeScript (Node.js)  
@@ -32,7 +32,7 @@ Just a chill guy from Europe who transforms ideas into modern IT solutions from 
  - ~~[blog.illia.cloud](https://illia.cloud)~~ __[WIP]__  
 
 I use:
-- [DigitalOcean](https://www.digitalocean.com/) and [Webdock](https://webdock.io/en) to host my projects
+- [Webdock](https://webdock.io/en) to host my projects
 - Linux for development and everyday[^2]  use 🐧
 ---
 
