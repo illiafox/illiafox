@@ -32,7 +32,7 @@ Just a chill guy from Europe who transforms ideas into modern IT solutions. From
  - ~~[blog.illia.cloud](https://illia.cloud)~~ __[WIP]__  
 
 I use:
-- [Webdock](https://webdock.io/en) to host my projects
+- [Webdock](https://webdock.io/en/pricing?ReferralCode=WDREFAFQY) to host my projects
 - Linux for development and everyday[^2]  use 🐧
 ---
 
