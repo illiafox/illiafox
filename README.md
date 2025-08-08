@@ -29,7 +29,7 @@ Just a chill guy from Europe who transforms ideas into modern IT solutions. From
  - [Leetcode](https://leetcode.com/u/illiafox/) (+ [solutions](https://github.com/illiafox/leetcode))
  - [AdventOfCode](https://github.com/illiafox/adventofcode) 🎄
  - [Codewars](https://www.codewars.com/users/IlliaFox)
- - ~~[blog.illia.cloud](https://illia.cloud)~~ __[WIP]__  
+ - [blog.illia.cloud](https://blog.illia.cloud) __[WIP]__  
 
 I use:
 - [Webdock](https://webdock.io/en/pricing?ReferralCode=WDREFAFQY) to host my projects
