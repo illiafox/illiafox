@@ -2,7 +2,7 @@
 
 
 
-Just a chill guy from Europe who transforms ideas into modern IT solutions. From initial concept to full product support.<img src="https://github.com/user-attachments/assets/8fc784ed-0611-4ec0-bc2b-fafc369e8eb5" width="32" />
+Just a chill guy from Europe<img src="https://github.com/user-attachments/assets/8fc784ed-0611-4ec0-bc2b-fafc369e8eb5" width="32" />
 
 💻 **What I Do:**  
 - **Backend Development & DevOps** (and a bit of frontend)  
