@@ -22,7 +22,7 @@ Just a chill guy from Europe<img src="https://github.com/user-attachments/assets
 - **Observability**: Prometheus, Grafana (Loki, Promtail), OpenTelemetry, Sentry, VictoriaMetrics
 
 > [!NOTE]
-> Didn't see your stack on my list? Hand it to me, and I'll dive right in. I'm always curious and eager to explore new technologies, ready to embrace whatever comes my way
+> Didn't see your stack on my list? Hand it to me, I'll dive in.
 
 **Some links:**
  - [inspire.tech](https://github.com/tech-inspire) - my latest bleeding-edge pet project
